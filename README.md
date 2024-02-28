@@ -22,6 +22,8 @@ Ultimately, our dashboard is more than just a tool – it's a guide for decision
 # Configuration
 No additional configuration is required to use the dashboard. However, you can connect the dashboard to your own Superstore dataset by updating the data source connection in Power BI Desktop.
 
+## Image 
+![image](https://github.com/Chetnakakde/Superstore-Transaction-Analysis/assets/45429144/fe9fcb84-849a-4cbd-92fa-6daf72620b44)
 
 
 ## Contributing
