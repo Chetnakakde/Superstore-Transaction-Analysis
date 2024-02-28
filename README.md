@@ -22,6 +22,8 @@ Ultimately, our dashboard is more than just a tool – it's a guide for decision
 # Configuration
 No additional configuration is required to use the dashboard. However, you can connect the dashboard to your own Superstore dataset by updating the data source connection in Power BI Desktop.
 
+
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
