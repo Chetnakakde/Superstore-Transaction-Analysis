@@ -1,6 +1,6 @@
 # Superstore-Transaction-Analysis
 ## Description
-It ia an analysis of a superstore to understand the buying behavior of customers and their preferences.
+It is an analysis of a superstore to understand the buying behavior of customers and their preferences.
 Imagine stepping into a bustling superstore where every transaction tells a story. Our Superstore Transaction Analysis Dashboard is like having a magnifying glass for these stories, offering a colorful and dynamic view into the heart of the store's operations.
 
 With this Power BI dashboard, you're not just looking at numbers; you're diving into a world of insights. See how sales ebb and flow like the tides, explore the vibrant tapestry of product categories, and uncover the hidden gems of geographical trends. It's like peering through a kaleidoscope of data, revealing patterns and connections that spark new ideas.
