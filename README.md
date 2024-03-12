@@ -45,7 +45,7 @@ This project is licensed under the GNU General Public License (GPL).
 If you encounter any issues or have any questions about the Superstore Dashboard, please open an issue in the GitHub repository.
 
 ## Acknowledgments
-Thank you to Kaggle for providing the Superstore dataset, and thank you to the Power BI community for their continuous support and contributions.
+Thanks to Kaggle for providing the Superstore dataset, and thank you to the Power BI community for their continuous support and contributions.
 
 ## Frequently Asked Questions (FAQs)
 ### Q: Can I use this dashboard with my own Superstore dataset?
